@@ -1,3 +1,10 @@
+<p align="center">
+    <img width="100" src="img/capa.png">
+</p> 
+
+-----------
+## Clique aqui para ler o artigo no [GitHub](https://github.com/MartinsRoni/artigo/blob/main/content.md)
+
 # CHECKLISTA PARA GERAR ARQUIVOS DE QUALIDADE 
 - [ ] Definir o assunto
 - [ ] Titulo chamativo: Headline
@@ -6,10 +13,10 @@
 - [ ] Postar o artigo com call to action
 
 ## Assunto:
-    Python - Introdução à Programação com Pytho
+    Python 
 
 ## Título 
-    Por que Python ? 
+    Por que Python ? Descubra as Vantagens da Linguagem Mais Popular da Atualidade
 
 ## Capa
     Feito com Canva e Lexica.art
