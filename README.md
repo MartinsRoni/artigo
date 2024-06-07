@@ -6,7 +6,7 @@
 - [ ] Postar o artigo com call to action
 
 ## Assunto:
-    Python - Introdução à Programação com Python
+    Python - Introdução à Programação com Pytho
 
 ## Título 
     Por que Python ? 
@@ -14,9 +14,9 @@
 ## Capa
     Feito com Canva e Lexica.art
 
-
-
 ## Blocos     
+
+- ### Prompts utilizados 
 
 Comporte-se como um escritos de artigos tech back-end e escreva o artigo atendendo as regras abaixo
 
